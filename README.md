@@ -1,2 +1,2 @@
-# htwg_ti_livecodings
-Love Coding für die Vorlesung Theoretische Informatik für den Studiengang Wirtschaftsinformatik an der HTWG Konstanz.
+# TI - Live Codings
+Live Codings für die Vorlesung Theoretische Informatik für den Studiengang Wirtschaftsinformatik an der HTWG Konstanz.
